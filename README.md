@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joelle Johnson</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joellecjohnson" alt="joellecjohnson" /></a> </p>
-
 - 🔭 I’m currently working on [a Holiday Wishlist App](https://final-project-630f3.web.app)
 
 - 🌱 I’m currently learning **Generative AI and Data Analytics**
