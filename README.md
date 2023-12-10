@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Express or React**
 
-- 📫 How to reach me **LinkedIn](www.linkedin.com/in/joelle-c-johnson) | JoelleJ221@gmail.com** 
+- 📫 How to reach me **[LinkedIn](www.linkedin.com/in/joelle-c-johnson) | JoelleJ221@gmail.com** 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1I245qJ6nOJMiOJZLd2MZbNZRBG_vbbuXAUUBjU0aY64/edit?usp=sharing](https://docs.google.com/document/d/1I245qJ6nOJMiOJZLd2MZbNZRBG_vbbuXAUUBjU0aY64/edit?usp=sharing)
 
