@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joelle Johnson</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h3 align="center">A Data Analyst & Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on a [Holiday Wishlist App](https://final-project-630f3.web.app)
 
-- 🌱 I’m currently learning **Generative AI and Data Analytics**
+- 🌱 I’m currently learning **Mulesoft**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **Express or React**
+- 💬 Ask me about **API Integrations**
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/joelle-c-johnson) | JoelleJ221@gmail.com** 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1I245qJ6nOJMiOJZLd2MZbNZRBG_vbbuXAUUBjU0aY64/edit?usp=sharing](https://docs.google.com/document/d/1I245qJ6nOJMiOJZLd2MZbNZRBG_vbbuXAUUBjU0aY64/edit?usp=sharing)
+- 📄 Know about my experiences **[here](https://docs.google.com/document/d/1n0m2eywmsf7OhlAvFIj4l2r2_usfS9M2/edit?usp=sharing&ouid=104713993896927897788&rtpof=true&sd=true)**
 
 - ⚡ Fun fact **I played football in highschool**
 
