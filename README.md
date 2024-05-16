@@ -23,4 +23,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoelleCJohnson)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joellecjohnson&show_icons=true&locale=en&layout=compact" alt="joellecjohnson" /></p>
