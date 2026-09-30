@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joelle Johnson</h1>
-<h3 align="center">A Data Analyst & Full Stack Software Engineer</h3>
+<h3 align="center">An Integration Engineer, Data Analyst & Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on a [Holiday Wishlist App](https://final-project-630f3.web.app)
-
-- 🌱 I’m currently learning **Mulesoft**
-
-- 💬 Ask me about **API Integrations**
+- 💬 Ask me about **MCP Integrations**
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/joelle-c-johnson) | JoelleJ221@gmail.com** 
 
